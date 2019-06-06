@@ -8,7 +8,7 @@ ASAP is short form of Automated Slide Analysis Platform and is generally used in
 <br>
 <img src="/imgs/fig1.png" alt="example" height="500">   
 <br>
-<h4>Pros and Cons<\h4>
+<h4>Pros and Cons</h4>
 <p>
   One of the advantages of ASAP is its readable output. It is organized in an XML file which is easily readable and interpretable by human users. It also has the capability of grouping a number of annotations (polygons for example) together which is useful in histopathological analysis of WSIs. 
 </p>
