@@ -3,7 +3,7 @@ We are introducing a number of image annotation tools in this page and explainin
 
 <h3> ASAP </h3>
 <p> 
-ASAP is short form of Automated Slide Analysis Platform and is generally used in annotating histopathological Images or what is know as Whole Slide Images (WSI). This tool is available for download for both Windows and Linux users at <a href="https://github.com/computationalpathologygroup/ASAP/releases" target="_blank">here</a>. It lets the users to draw different shapes on the slide images including multipart non-convex polygons. The output format of this tools is human-readable XML. You can find out more information at <a href="https://computationalpathologygroup.github.io/ASAP/" target="_blank">here</a>.
+ASAP is short form of Automated Slide Analysis Platform and is generally used in annotating histopathological Images or what is know as Whole Slide Images (WSI). This tool is available for download for both Windows and Linux users at <a href="https://github.com/computationalpathologygroup/ASAP/releases" target="_blank">here</a>. It lets the users to draw different shapes on the slide images including multipart non-convex polygons. The output format of this tools is human-readable XML. You can find more information about ASAP at <a href="https://computationalpathologygroup.github.io/ASAP/" target="_blank">here</a>.
 </p>
 
 <h3> VIA </h3>
